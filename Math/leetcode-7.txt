@@ -1,0 +1,21 @@
+class Solution {
+    public int reverse(int x) {
+        boolean flag = false;
+        if(x < 0){
+            flag = true;
+            x= -1*x;
+        }
+        int revNum = 0;
+        while(x>0){
+            if (Integer.MAX_VALUE / 10 < revNum) return 0;
+            int lastDigit = x%10;
+            revNum = (revNum*10)+lastDigit;
+            x = x/10;
+        }
+
+        if(flag){
+            return -1*revNum;
+        }
+        return revNum;
+    }
+}
