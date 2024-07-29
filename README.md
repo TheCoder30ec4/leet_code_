@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/TheCoder30ec4/leet_code_/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -21,5 +22,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
