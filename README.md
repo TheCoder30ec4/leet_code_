@@ -13,10 +13,12 @@
 | [0027-remove-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/TheCoder30ec4/leet_code_/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,10 +34,19 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/TheCoder30ec4/leet_code_/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/TheCoder30ec4/leet_code_/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/TheCoder30ec4/leet_code_/tree/master/1908-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
