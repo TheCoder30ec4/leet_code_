@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TheCoder30ec4/leet_code_/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TheCoder30ec4/leet_code_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
 ## Hash Table
@@ -25,6 +26,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TheCoder30ec4/leet_code_/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TheCoder30ec4/leet_code_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
