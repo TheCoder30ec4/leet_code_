@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheCoder30ec4/leet_code_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/TheCoder30ec4/leet_code_/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
