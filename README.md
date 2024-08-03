@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheCoder30ec4/leet_code_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TheCoder30ec4/leet_code_/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -35,11 +36,13 @@
 | [0015-3sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0027-remove-element) |
+| [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
 ## Database
 |  |
 | ------- |
@@ -55,4 +58,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
