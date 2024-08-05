@@ -19,11 +19,13 @@
 | [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TheCoder30ec4/leet_code_/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TheCoder30ec4/leet_code_/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -69,4 +72,8 @@
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TheCoder30ec4/leet_code_/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## String
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
