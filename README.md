@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TheCoder30ec4/leet_code_/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TheCoder30ec4/leet_code_/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
