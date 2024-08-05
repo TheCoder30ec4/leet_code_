@@ -11,10 +11,15 @@
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
 
+        if(head == null){
+            return head;
+        }
+
       
         ListNode temp1 =head;
         ListNode temp2 = head;
         int length =0;
+
 
         while(temp1 != null){
             length++;
