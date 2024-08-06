@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,9 +79,14 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheCoder30ec4/leet_code_/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TheCoder30ec4/leet_code_/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
