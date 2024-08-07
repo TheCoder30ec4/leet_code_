@@ -82,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/TheCoder30ec4/leet_code_/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/TheCoder30ec4/leet_code_/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -93,5 +94,10 @@
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/TheCoder30ec4/leet_code_/tree/master/0273-integer-to-english-words) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/TheCoder30ec4/leet_code_/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
