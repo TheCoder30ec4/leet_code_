@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/TheCoder30ec4/leet_code_/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/TheCoder30ec4/leet_code_/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheCoder30ec4/leet_code_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0152-maximum-product-subarray) |
@@ -100,4 +101,12 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/TheCoder30ec4/leet_code_/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/TheCoder30ec4/leet_code_/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/TheCoder30ec4/leet_code_/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
