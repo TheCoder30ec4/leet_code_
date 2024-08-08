@@ -19,6 +19,7 @@
 | [0152-maximum-product-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
+| [0921-spiral-matrix-iii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0921-spiral-matrix-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TheCoder30ec4/leet_code_/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TheCoder30ec4/leet_code_/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -107,9 +108,11 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/TheCoder30ec4/leet_code_/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0059-spiral-matrix-ii) |
+| [0921-spiral-matrix-iii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/TheCoder30ec4/leet_code_/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0059-spiral-matrix-ii) |
+| [0921-spiral-matrix-iii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
