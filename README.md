@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
+| [1448-maximum-69-number](https://github.com/TheCoder30ec4/leet_code_/tree/master/1448-maximum-69-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/TheCoder30ec4/leet_code_/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
@@ -101,6 +102,7 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/TheCoder30ec4/leet_code_/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/TheCoder30ec4/leet_code_/tree/master/0870-magic-squares-in-grid) |
+| [1448-maximum-69-number](https://github.com/TheCoder30ec4/leet_code_/tree/master/1448-maximum-69-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
