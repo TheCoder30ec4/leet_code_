@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/TheCoder30ec4/leet_code_/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/TheCoder30ec4/leet_code_/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0059-spiral-matrix-ii) |
@@ -84,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/TheCoder30ec4/leet_code_/tree/master/0035-search-insert-position) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TheCoder30ec4/leet_code_/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
