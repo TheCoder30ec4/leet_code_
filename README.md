@@ -25,6 +25,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TheCoder30ec4/leet_code_/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TheCoder30ec4/leet_code_/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0870-magic-squares-in-grid](https://github.com/TheCoder30ec4/leet_code_/tree/master/0870-magic-squares-in-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/TheCoder30ec4/leet_code_/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
