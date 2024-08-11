@@ -6,6 +6,10 @@ class Solution {
         int count =0;
 
         for(int i=0;i<n;i++){
+
+            if(nums1[i] % k !=0){
+                continue;
+            }
             for(int j=0;j<m;j++){
 
                 if(nums1[i] % (nums2[j]*k) == 0){
