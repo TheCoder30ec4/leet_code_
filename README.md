@@ -24,6 +24,7 @@
 | [0921-spiral-matrix-iii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0921-spiral-matrix-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TheCoder30ec4/leet_code_/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TheCoder30ec4/leet_code_/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TheCoder30ec4/leet_code_/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/TheCoder30ec4/leet_code_/tree/master/0273-integer-to-english-words) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TheCoder30ec4/leet_code_/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/TheCoder30ec4/leet_code_/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
