@@ -138,6 +138,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TheCoder30ec4/leet_code_/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/TheCoder30ec4/leet_code_/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -159,8 +160,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TheCoder30ec4/leet_code_/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/TheCoder30ec4/leet_code_/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TheCoder30ec4/leet_code_/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/TheCoder30ec4/leet_code_/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
