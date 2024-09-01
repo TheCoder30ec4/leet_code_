@@ -137,6 +137,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TheCoder30ec4/leet_code_/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -154,4 +155,12 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TheCoder30ec4/leet_code_/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TheCoder30ec4/leet_code_/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
