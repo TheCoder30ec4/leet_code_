@@ -133,6 +133,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -151,6 +152,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -166,4 +168,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TheCoder30ec4/leet_code_/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TheCoder30ec4/leet_code_/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
