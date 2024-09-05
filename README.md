@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheCoder30ec4/leet_code_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheCoder30ec4/leet_code_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -179,12 +181,14 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheCoder30ec4/leet_code_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
