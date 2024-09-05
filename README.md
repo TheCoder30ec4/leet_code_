@@ -43,6 +43,7 @@
 | [0053-maximum-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TheCoder30ec4/leet_code_/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheCoder30ec4/leet_code_/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
