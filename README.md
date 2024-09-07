@@ -21,6 +21,7 @@
 | [0152-maximum-product-subarray](https://github.com/TheCoder30ec4/leet_code_/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/TheCoder30ec4/leet_code_/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/TheCoder30ec4/leet_code_/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0921-spiral-matrix-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TheCoder30ec4/leet_code_/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/TheCoder30ec4/leet_code_/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/TheCoder30ec4/leet_code_/tree/master/0870-magic-squares-in-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/TheCoder30ec4/leet_code_/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -196,4 +198,8 @@
 | [0101-symmetric-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheCoder30ec4/leet_code_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/TheCoder30ec4/leet_code_/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
