@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheCoder30ec4/leet_code_/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/TheCoder30ec4/leet_code_/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TheCoder30ec4/leet_code_/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
@@ -120,6 +121,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/TheCoder30ec4/leet_code_/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/TheCoder30ec4/leet_code_/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
