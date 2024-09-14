@@ -15,7 +15,7 @@ public class Solution extends VersionControl {
             if (b && !isBadVersion((int)m-1))
             return (int)m;
             else if (b) 
-            l = m;
+            l = m-1;
             else 
             u = m+1;
         }
