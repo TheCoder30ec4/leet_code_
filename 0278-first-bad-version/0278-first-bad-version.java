@@ -9,13 +9,13 @@ public class Solution extends VersionControl {
         long l=n;
         while(u<=l){
             long m = u+(l-u)/2;
-            System.out.println(m);
+            //System.out.println(m);
             
             boolean b = isBadVersion((int)m);
             if (b && !isBadVersion((int)m-1))
             return (int)m;
             else if (b) 
-            l = m-1;
+            l = m;
             else 
             u = m+1;
         }
