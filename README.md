@@ -100,6 +100,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/TheCoder30ec4/leet_code_/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/TheCoder30ec4/leet_code_/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/TheCoder30ec4/leet_code_/tree/master/0278-first-bad-version) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TheCoder30ec4/leet_code_/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
@@ -217,4 +218,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheCoder30ec4/leet_code_/tree/master/0222-count-complete-tree-nodes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/TheCoder30ec4/leet_code_/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
