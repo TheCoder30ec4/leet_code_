@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/TheCoder30ec4/leet_code_/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/TheCoder30ec4/leet_code_/tree/master/0222-count-complete-tree-nodes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TheCoder30ec4/leet_code_/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
@@ -150,6 +151,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheCoder30ec4/leet_code_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/TheCoder30ec4/leet_code_/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -173,6 +175,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheCoder30ec4/leet_code_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheCoder30ec4/leet_code_/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/TheCoder30ec4/leet_code_/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -210,4 +213,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TheCoder30ec4/leet_code_/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TheCoder30ec4/leet_code_/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
