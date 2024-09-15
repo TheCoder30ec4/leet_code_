@@ -29,6 +29,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TheCoder30ec4/leet_code_/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TheCoder30ec4/leet_code_/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TheCoder30ec4/leet_code_/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
@@ -218,8 +219,13 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheCoder30ec4/leet_code_/tree/master/0222-count-complete-tree-nodes) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TheCoder30ec4/leet_code_/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/TheCoder30ec4/leet_code_/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TheCoder30ec4/leet_code_/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
