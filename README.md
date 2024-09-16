@@ -148,6 +148,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheCoder30ec4/leet_code_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -164,6 +165,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TheCoder30ec4/leet_code_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -172,6 +174,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheCoder30ec4/leet_code_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -196,6 +199,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheCoder30ec4/leet_code_/tree/master/0104-maximum-depth-of-binary-tree) |
