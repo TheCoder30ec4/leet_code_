@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/TheCoder30ec4/leet_code_/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/TheCoder30ec4/leet_code_/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/TheCoder30ec4/leet_code_/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/TheCoder30ec4/leet_code_/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0921-spiral-matrix-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TheCoder30ec4/leet_code_/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -102,6 +103,7 @@
 | [0035-search-insert-position](https://github.com/TheCoder30ec4/leet_code_/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/TheCoder30ec4/leet_code_/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/TheCoder30ec4/leet_code_/tree/master/0278-first-bad-version) |
+| [0792-binary-search](https://github.com/TheCoder30ec4/leet_code_/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TheCoder30ec4/leet_code_/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
