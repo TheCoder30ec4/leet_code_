@@ -97,6 +97,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheCoder30ec4/leet_code_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/TheCoder30ec4/leet_code_/tree/master/0455-assign-cookies) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TheCoder30ec4/leet_code_/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/TheCoder30ec4/leet_code_/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TheCoder30ec4/leet_code_/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/TheCoder30ec4/leet_code_/tree/master/0273-integer-to-english-words) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TheCoder30ec4/leet_code_/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TheCoder30ec4/leet_code_/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TheCoder30ec4/leet_code_/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCoder30ec4/leet_code_/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -197,6 +199,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TheCoder30ec4/leet_code_/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TheCoder30ec4/leet_code_/tree/master/0232-implement-queue-using-stacks) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TheCoder30ec4/leet_code_/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
 | ------- |
